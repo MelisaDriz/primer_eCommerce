@@ -7,6 +7,7 @@ $paginas = [
     'producto'
 ];
 
+require_once 'functions/utils.php';
 
 if (isset($_GET[$paramsPag])){
     $encontrada = false;
