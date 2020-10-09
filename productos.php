@@ -1,4 +1,4 @@
-<?php require_once ("header.php") ?> 
+
 		<div class="container">
 			<section id="page">
 				<div class="cat-product">
@@ -66,4 +66,4 @@
 		</div>
 
 		<!---->
-		<?php require_once ("footer.php")?>
+		

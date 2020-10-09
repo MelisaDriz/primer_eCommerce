@@ -1,4 +1,4 @@
-<?php require_once ("header.php") ?> 
+
 		<div class="container">
 			<section id="page">
 				<div class="account_grid">
@@ -29,4 +29,4 @@
 		</div>
 
 		<!---->
-		<?php require_once ("footer.php")?>
+		

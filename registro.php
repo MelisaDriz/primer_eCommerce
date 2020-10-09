@@ -1,4 +1,4 @@
-<?php require_once ("header.php") ?> 
+
 		<div class="container">
 			<section id="page">
 					<div class="register">
@@ -28,4 +28,4 @@
 		</div>
 
 		<!---->
-		<?php require_once ("footer.php")?>
+		
