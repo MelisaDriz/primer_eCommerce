@@ -29,9 +29,5 @@ if (isset($_GET[$paramsPag])){
     require_once 'footer.php';
 }
 
-<<<<<<< HEAD
 
 ?>
-=======
-?>
->>>>>>> f8bd28d836b50ed01fe3d3a1bb4a3a38b50b679c
