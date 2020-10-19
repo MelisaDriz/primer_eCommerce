@@ -1,4 +1,7 @@
 <?php
+require_once 'db/db.php';
+require 'db/tablas/productos.php';
+
 
 $paramsPag = 'pag';
 

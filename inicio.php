@@ -1,4 +1,10 @@
+<?php
 
+$ultimos = [];
+
+//var_dump(productos_traer_todos($db));
+
+?>
 
 		<div class="container">
 			<section id="page">
